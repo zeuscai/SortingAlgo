@@ -1,4 +1,3 @@
 SortingAlgo
 ===========
-
-Code for Sorting Algorithm in C#
+This respository will hold some code of different kinds of Sorting Algorithm written in C# whiling I'm learing all these...
